@@ -9,6 +9,7 @@ int main() {
     // calculating sum
     sum = number1 + number2;      
     
+    // Printing the output
     printf("%d + %d = %d", number1, number2, sum);
     return 0;
 }
